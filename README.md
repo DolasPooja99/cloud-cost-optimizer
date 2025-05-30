@@ -33,5 +33,4 @@ This project provisions a fully automated cloud cost monitoring and alerting sys
 
 ---
 
-## License
-MIT
+
